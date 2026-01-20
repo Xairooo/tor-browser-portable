@@ -1,3 +1,11 @@
+Tor Browser 15.0.4 -- January 13 2026
+ * All Platforms
+   * Update Firefox to 140.7.0esr
+   * Backported security fixes from Firefox 147
+   * Updated built-in obfs4 bridges
+   * Bug fix: Fixed "Weird §:domain.com label" bug in Blocked Objects window
+   * Security: Patched vulnerability allowing script execution in Safest mode via data URI navigation
+
 Tor Browser 5.5.4 -- March 16 2016
  * All Platforms
    * Update Firefox to 38.7.1esr
